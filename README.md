@@ -1,4 +1,3 @@
-# keyMonkey
 
 Two Big Projects
 

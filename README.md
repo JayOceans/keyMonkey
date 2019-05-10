@@ -4,7 +4,8 @@ Two Big Projects
 # 1. Counter Wrench-Attack Protocol (CWAP)
 
 -a simple method to HODL SAFE
--seed-splitting 
+
+-simple seed-splitting 
 
 * no single-point-of-failure
 * no travel

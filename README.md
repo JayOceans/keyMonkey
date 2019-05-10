@@ -3,8 +3,8 @@ Two Big Projects
 
 # 1. Counter Wrench-Attack Protocol (CWAP)
 
--a simple method to HODL SAFE
--seed-splitting 
+- a simple method to HODL SAFE
+- seed-splitting 
 
 * no single-point-of-failure
 * no travel
@@ -16,7 +16,7 @@ https://medium.com/@summerstarlight321/counter-wrench-attacks-83c75bfbb3d
 
 # 2. Duress Pass-Phrases are Dangerous !
 
--a public awareness campaign 
+- a public awareness campaign 
 
 this bad strategy -->
 * encourage attacks
